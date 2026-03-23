@@ -50,3 +50,5 @@ public class Main {
 
 ## Result:
 Thus, the Java program to to count the number of digits in an integer is implemented successfully.
+
+
